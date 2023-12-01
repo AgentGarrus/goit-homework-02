@@ -4,6 +4,10 @@ body {
     background-color: #ffffff;
 }
 
+.header-color {
+    color: #2E2F42;
+}
+
 .page-nav {
     color: #2E2F42;
     font-size: 16px;
@@ -21,9 +25,10 @@ body {
     font-style: normal;
 }
 
-.address-link {
+.address {
     color: #2e2f42;
     font-size: 16px;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -75,7 +80,11 @@ body {
 }
 
 .section-three {
-    background: #ffffff;
+    background: #f4f4fd;
+}
+
+.list-color {
+    background-color: #ffffff;
 }
 
 .header-two {
