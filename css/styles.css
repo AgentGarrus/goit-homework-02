@@ -48,7 +48,7 @@ body {
 
 .bcolor {
     color: #ffffff;
-    font-family: Roboto;
+    font-family: Roboto,sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -75,10 +75,11 @@ body {
 }
 
 .section-three {
-    background: #F4F4FD;
+    background: #ffffff;
 }
 
 .header-two {
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-style: normal;
@@ -93,6 +94,7 @@ body {
 }
 
 .header-three {
+    color: #2E2F42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
