@@ -47,7 +47,6 @@ body {
 
 .header-one {
     color: #ffffff;
-    text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -89,7 +88,6 @@ body {
 
 .header-two {
     color: #2E2F42;
-    text-align: center;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -156,7 +154,7 @@ body {
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
 }
 
 .footercolor {
