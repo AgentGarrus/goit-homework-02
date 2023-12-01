@@ -8,6 +8,10 @@ body {
     color: #2E2F42;
 }
 
+a {
+    text-decoration: none;
+}
+
 .page-nav {
     font-size: 16px;
     font-weight: 500;
@@ -17,7 +21,6 @@ body {
 
 .link {
     color: #2E2F42;
-    text-decoration: none;
 }
 
 .page-nav .link:hover,
@@ -34,7 +37,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    text-decoration: none;
 }
 
 .address-link:hover,
@@ -131,7 +133,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    text-decoration: none;
 }
 
 .studioheader {
@@ -142,7 +143,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    text-decoration: none;
 }
 
 .studiofooter {
@@ -153,7 +153,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    text-decoration: none;
 }
 
 ul {
